@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e5d8f33f-0e47-4afa-8a59-fa90782d618f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../bb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../config/ConfigQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../last" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__com_vaadin_external_google_android_json_0_0_20131108_vaadin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__javax_annotation_javax_annotation_api_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__javax_jms_javax_jms_api_2_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__javax_validation_validation_api_2_0_1_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__net_bytebuddy_byte_buddy_agent_1_9_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__net_minidev_accessors_smart_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__net_minidev_json_smart_2_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_activemq_activemq_broker_5_15_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_activemq_activemq_client_5_15_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_activemq_activemq_openwire_legacy_5_15_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_j2ee_management_1_1_spec_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_logging_log4j_log4j_to_slf4j_2_11_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_22.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_hibernate_validator_hibernate_validator_6_0_17_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_2_Final.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_mockito_mockito_core_2_23_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_objenesis_objenesis_2_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_json_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_2_1_7_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_springframework_spring_web_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/libraries/Maven__org_springframework_spring_webmvc_5_1_9_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/src/main/resources/static/css/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/src/main/resources/static/script/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/target/activemqdemo-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/target/activemqdemo-0.0.1-SNAPSHOT.jar.original" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/target/classes/com/example/activemqdemo/service/impl/ReceiveServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/target/surefire-reports/TEST-com.example.activemqdemo.ActivemqdemoApplicationTests.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/activemqdemo/target/surefire-reports/com.example.activemqdemo.ActivemqdemoApplicationTests.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/demo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-controller/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-controller/src/main/java/com/eg2/SecondJobControllerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-controller/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-controller/src/test/java/com/eg2/eg2controller/Eg2ControllerApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-controller/target/eg2-controller-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-dao/target/eg2-dao-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-entity/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-entity/src/test/java/com/eg2/eg2entity/Eg2EntityApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-entity/target/eg2-entity-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-entity/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/eg2-services/target/eg2-services-0.0.1-SNAPSHOT.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/gittwo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../springboot-demo/nimabi" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/night.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../today.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../untitled" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../新建文本文档.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/bin/BobbleSortTest/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/bin/BobbleSortTest/tt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/bin/notes/javase/algorithm/sort/BubbleSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/src/BobbleSortTest/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/bubblesort排序/bubblingProject/src/notes/javase/algorithm/sort/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/error和exception/error和exception的理解.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/java中不可变对象的理解/AllTest/.classpath" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/java中不可变对象的理解/AllTest/.project" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/java中不可变对象的理解/AllTest/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/java中不可变对象的理解/AllTest/bin/test/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/java中不可变对象的理解/AllTest/src/test/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/java中不可变对象的理解/不可变对象的理解及特点.rtf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/sqlserver数据库的存储过程/raiserror.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/sqlserver数据库的存储过程/关于存储过程有返回值的理解.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/sqlserver数据库的存储过程/创建有参的存储过程.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/sqlserver数据库的存储过程/有返回值的存储过程.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/利用HashSet去重/HashSetProject/.settings/org.eclipse.jdt.core.prefs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/利用HashSet去重/HashSetProject/bin/HashSetProject/HashSetTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../面试题/利用HashSet去重/HashSetProject/src/HashSetProject/HashSetTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../okok/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../okok/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../okok/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../okok/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../show/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../show/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../show/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../show/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../aaaaaaaaaaaaaa/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../aaaaaaaaaaaaaa/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="448" />
+    <option name="y" value="38" />
+    <option name="width" value="1281" />
+    <option name="height" value="978" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="night" type="b2602c69:ProjectViewProjectNode" />
+              <item name="night" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="night" type="b2602c69:ProjectViewProjectNode" />
+              <item name="night" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="night" type="b2602c69:ProjectViewProjectNode" />
+              <item name="night" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="night" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e5d8f33f-0e47-4afa-8a59-fa90782d618f" name="Default Changelist" comment="" />
+      <created>1566498559887</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566498559887</updated>
+      <workItem from="1566498564037" duration="797000" />
+      <workItem from="1566499464967" duration="358000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1155000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="448" y="38" width="1281" height="978" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980237" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
