@@ -85,15 +85,6 @@
       <change afterPath="$PROJECT_DIR$/../../springboot-demo/eg2/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../springboot-demo/gittwo" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../springboot-demo/nimabi" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/night.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../today.txt" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../untitled" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../../新建文本文档.txt" afterDir="false" />
@@ -229,18 +220,25 @@
       <option name="presentableId" value="Default" />
       <updated>1566498559887</updated>
       <workItem from="1566498564037" duration="797000" />
-      <workItem from="1566499464967" duration="358000" />
+      <workItem from="1566499464967" duration="648000" />
     </task>
+    <task id="LOCAL-00001" summary="night">
+      <created>1566499901370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566499901370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1155000" />
+    <option name="totallyTimeSpent" value="1445000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="448" y="38" width="1281" height="978" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24980237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24980237" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
@@ -255,7 +253,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32908458" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -268,6 +266,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="night" />
+    <option name="LAST_COMMIT_MESSAGE" value="night" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
